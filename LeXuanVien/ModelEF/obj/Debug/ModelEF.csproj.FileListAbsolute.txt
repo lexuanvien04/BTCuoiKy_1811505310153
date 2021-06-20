@@ -1,0 +1,16 @@
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\ModelEF.dll.config
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\ModelEF.dll
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\ModelEF.pdb
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\EntityFramework.dll
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\EntityFramework.xml
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# Cuối kì\LeXuanVien\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+D:\C# Cuối kì\LeXuanVien\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+D:\C# Cuối kì\LeXuanVien\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+D:\C# Cuối kì\LeXuanVien\ModelEF\obj\Debug\ModelEF.dll
+D:\C# Cuối kì\LeXuanVien\ModelEF\obj\Debug\ModelEF.pdb
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\PagedList.dll
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\PagedList.Mvc.dll
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\PagedList.xml
+D:\C# Cuối kì\LeXuanVien\ModelEF\bin\Debug\PagedList.Mvc.xml

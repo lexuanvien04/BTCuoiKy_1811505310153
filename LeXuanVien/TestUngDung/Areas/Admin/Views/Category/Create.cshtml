@@ -1,0 +1,58 @@
+﻿@model ModelEF.Model.Category
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create a new category</h2>
+
+@using (Html.BeginForm("Create", "Category", FormMethod.Post, new { role = "form", enctype = "multipart/form-data", onsubmit = "AJAXSubmit(this);return false;" }))
+{
+    @Html.AntiForgeryToken()
+    
+
+    <div class="form-horizontal">
+        <div class="card button-page o-visible">
+            <div class="card-block">
+                <ul>
+                    <li>
+                        @Html.ActionLink("Back", "Index", "Category", new { @class = "btn btn-danger" })
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <label class="col-md-2">Category ID</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CategoryID, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CategoryID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2">Category Name</label>
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.CategoryName, new { @class = "form-control" } )
+                @Html.ValidationMessageFor(model => model.CategoryName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2">Description</label>
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Description,new { @class = "form-control" } )
+                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-instagram" />
+            </div>
+        </div>
+    </div>
+    }
+

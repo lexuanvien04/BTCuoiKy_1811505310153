@@ -1,0 +1,182 @@
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\TestUngDung.dll.config
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\TestUngDung.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\TestUngDung.pdb
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\csc.exe
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\csc.exe.config
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\csc.rsp
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\csi.exe
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\csi.exe.config
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\csi.rsp
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.AppContext.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Console.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Globalization.Calendars.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.IO.Compression.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Net.Http.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Net.Sockets.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.ValueTuple.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\vbc.exe
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\vbc.exe.config
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\vbc.rsp
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\VBCSCompiler.exe
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\Antlr3.Runtime.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\EntityFramework.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\EntityFramework.SqlServer.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\ModelEF.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\Newtonsoft.Json.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.Helpers.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.Mvc.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.Optimization.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.Razor.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.WebPages.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.WebPages.Razor.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\WebGrease.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\ModelEF.pdb
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\ModelEF.dll.config
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\EntityFramework.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\EntityFramework.SqlServer.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.Helpers.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.Mvc.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.Optimization.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.Razor.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.WebPages.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\System.Web.WebPages.Razor.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\Newtonsoft.Json.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\Antlr3.Runtime.pdb
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+D:\C# Cuối kì\LeXuanVien\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+D:\C# Cuối kì\LeXuanVien\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+D:\C# Cuối kì\LeXuanVien\TestUngDung\obj\Debug\TestUngDung.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\obj\Debug\TestUngDung.pdb
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\PagedList.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\PagedList.Mvc.dll
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\PagedList.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\PagedList.Mvc.xml
+D:\C# Cuối kì\LeXuanVien\TestUngDung\bin\Logger.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\TestUngDung.dll.config
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\TestUngDung.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\TestUngDung.pdb
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\csc.exe
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\csc.exe.config
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\csc.rsp
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\csi.exe
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\csi.exe.config
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\csi.rsp
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.AppContext.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Console.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Globalization.Calendars.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.IO.Compression.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Net.Http.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Net.Sockets.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.ValueTuple.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\vbc.exe
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\vbc.exe.config
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\vbc.rsp
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\VBCSCompiler.exe
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\Antlr3.Runtime.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\EntityFramework.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\EntityFramework.SqlServer.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\Logger.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\ModelEF.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\Newtonsoft.Json.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\PagedList.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\PagedList.Mvc.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.Helpers.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.Mvc.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.Optimization.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.Razor.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.WebPages.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.WebPages.Razor.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\WebGrease.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\ModelEF.pdb
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\ModelEF.dll.config
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\EntityFramework.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\EntityFramework.SqlServer.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\PagedList.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\PagedList.Mvc.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.Helpers.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.Mvc.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.Optimization.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.Razor.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.WebPages.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\System.Web.WebPages.Razor.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\Newtonsoft.Json.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\Antlr3.Runtime.pdb
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\obj\Debug\TestUngDung.dll
+D:\LeXuanVien_1811505310153\LeXuanVien\TestUngDung\obj\Debug\TestUngDung.pdb

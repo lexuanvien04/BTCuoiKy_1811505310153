@@ -1,0 +1,10 @@
+
+[Information] == [17/06/2021 03:20:36 PM]
+Product -- Create-Post
+System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at ModelEF.DAO.CategoryDao.Insert(Category entitycategory) in D:\C# Cuối kì\LeXuanVien\ModelEF\DAO\CategoryDao.cs:line 59
+   at TestUngDung.Areas.Admin.Controllers.CategoryController.Create(Category model) in D:\C# Cuối kì\LeXuanVien\TestUngDung\Areas\Admin\Controllers\CategoryController.cs:line 42
+

@@ -1,0 +1,115 @@
+﻿@using PagedList;
+@using PagedList.Mvc
+@model PagedList.IPagedList<ModelEF.Model.Category>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+
+<body>
+    @using (Html.BeginForm("Index", "Category", FormMethod.Post))
+    {
+        <!-- Tooltip on button card start -->
+        <div class="card button-page o-visible">
+            <div class="card-block">
+                <ul>
+                    <li>
+                        @Html.ActionLink("Create New", "Create", "Category", new { @class = "btn btn-danger" })
+                    </li>
+                    <li style="margin-left: 400px">
+                        <input type="text" value="@ViewBag.SearchString" name="searchString" placeholder="Searching..." class="form-control" />
+                    </li>
+                    <li>
+                        <input type="submit" value="Search" class="btn btn-default" />
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- Tooltip on button card end -->
+    }
+
+
+    <div class="card">
+        <div class="card-header">
+            <div class="col-sm-12">
+                <h5><i class="fa fa-book"></i>&nbsp; Manage Category</h5>
+            </div>
+            <div class="card-header-right">
+                <ul class="list-unstyled card-option">
+                    <li><i class="fa fa fa-wrench open-card-option"></i></li>
+                    <li><i class="fa fa-window-maximize full-card"></i></li>
+                    <li><i class="fa fa-minus minimize-card"></i></li>
+                    <li><i class="fa fa-refresh reload-card"></i></li>
+                    <li><i class="fa fa-trash close-card"></i></li>
+                </ul>
+            </div>
+        </div>
+        <div class="card-block table-border-style">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>STT</th>
+                            <th>
+                                Category ID
+                            </th>
+                            <th>
+                                Category Name
+                            </th>
+                            <th>
+                                Description
+                            </th>
+                            <th>
+                                Thao tác
+                            </th>
+                        </tr>
+
+                    </thead>
+                    @{ var i = 1;}
+                    @foreach (var item in Model)
+                    {
+                        <tbody>
+                            <tr id="row_@item.CategoryID">
+                                <td>
+                                    @i
+                                </td>
+                                <td>
+                                    @item.CategoryID
+                                </td>
+                                <td>
+                                    @item.CategoryName
+                                </td>
+                                <td>
+                                    @item.Description
+                                </td>
+                                @*<td>
+                                        <a href="#" class="btn btn-danger btn-active" data-id="@item.UserID">
+                                            @(item.Status? "Active" : "Blocked")
+                                        </a>
+                                    </td>*@
+                                <td>
+                                    <a href="@Url.Action("Update", "Category")"><i class="fa fa-refresh"></i></a>
+                                    &nbsp;
+                                    @Ajax.ActionLink("Xóa", "Delete", new { @id = item.CategoryID }, new AjaxOptions
+                                    {
+                                        Confirm = "Do you want to delete this record?",
+                                        OnComplete = "$('#row_" + @item.CategoryID + "').remove()",
+                                        HttpMethod = "Delete"
+                                    }, new { @class = "glyphicon glyphicon-trash" })
+                                </td>
+                            </tr>
+                        </tbody>
+                        i++;
+                    }
+                </table>
+                @Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new { page, @searchString = @ViewBag.SearchString }))
+            </div>
+        </div>
+    </div>
+</body>
+</html>
